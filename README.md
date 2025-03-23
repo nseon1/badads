@@ -8,3 +8,5 @@ zip is here! https://drive.google.com/file/d/1RjsIqiDIkMSqJulD9d7EPsaCCN6qJQjH/v
 github doesnt "really" allow files over 50mb
 
 Basically i showed you can hijack an ai (like agent) via ads on a site; much more malicious if something like  full time operator came out
+
+works best on model with learn vision rather than something like OCR
