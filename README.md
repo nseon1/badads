@@ -9,4 +9,4 @@ github doesnt "really" allow files over 50mb
 
 Basically i showed you can hijack an ai (like agent) via ads on a site; much more malicious if something like  full time operator came out
 
-works best on model with learn vision rather than something like OCR
+works best on model with learn vision rather than something like OCR- as the text isnt too common.
