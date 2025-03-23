@@ -6,3 +6,5 @@ note: to run the code open it in colaboratory and run the cells, you can downloa
 zip is here! https://drive.google.com/file/d/1RjsIqiDIkMSqJulD9d7EPsaCCN6qJQjH/view?usp=sharing](https://drive.google.com/file/d/1N7hXWRVCo718_EzKEh9W09sAiXmsQnDu/view?usp=sharing
 
 github doesnt "really" allow files over 50mb
+
+Basically i showed you can hijack an ai (like agent) via ads on a site; much more malicious if something like  full time operator came out
